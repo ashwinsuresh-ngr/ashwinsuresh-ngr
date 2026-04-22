@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ashwinsuresh-ngr&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true&margin-w=8)](https://github.com/ashwinsuresh-ngr)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
