@@ -22,7 +22,17 @@
 
 ---
 
-### � Stats & Activity
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-swart-zeta.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+
+</div>
+
+---
+
+### 📊 Stats & Activity
 
 <div align="center">
 
@@ -34,7 +44,7 @@
 
 <img src="https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=8&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=8" height="165"/>
 
 </div>
 
