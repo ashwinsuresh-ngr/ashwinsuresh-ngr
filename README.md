@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-swart-zeta.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<img src="https://github-profile-trophy-8s2y.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
