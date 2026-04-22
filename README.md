@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ashwinsuresh-ngr)
+<img src="https://github-profile-trophy.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
