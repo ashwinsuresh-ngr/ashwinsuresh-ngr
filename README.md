@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%232E3440.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwinsuresh-ngr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-s-214a87302/)
-[![Website](https://img.shields.io/badge/Website-%232E87FB.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashwinsuresh-ngr.github.io/pynotes/)
+[![Website](https://img.shields.io/badge/Website-%232E87FB.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashwinsuresh-ngr.github.io/)
 [![PyNotes](https://img.shields.io/badge/PyNotes-%234C566A.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://ashwinsuresh-ngr.github.io/pynotes/)
 [![MyLearning](https://img.shields.io/badge/MyLearning-%234C566A.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://ashwinsuresh-ngr.github.io/pynotes/)
 
