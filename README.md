@@ -42,18 +42,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-> ⚠️ If the snake isn't visible, go to your repo → Actions → "Generate Stats" → Run workflow manually once.
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
