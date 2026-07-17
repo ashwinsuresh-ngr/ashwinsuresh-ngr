@@ -22,21 +22,21 @@
 
 ---
 
-### 🔥 Streak Stats
+### � Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" alt="streak"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwinsuresh-ngr&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&custom_title=Contribution%20Graph&days=60)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
 ---
 
-### 📊 Contribution Graph
+### � Streak Stats
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwinsuresh-ngr&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&custom_title=Contribution%20Graph&days=60)](https://github.com/ashwinsuresh-ngr)
+<img src="https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" alt="streak"/>
 
 </div>
 
