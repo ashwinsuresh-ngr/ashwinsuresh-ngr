@@ -22,23 +22,17 @@
 
 ---
 
-### 🏆 GitHub Stats
+### 🔥 Streak Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=8&include_all_commits=true&rank_icon=github" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" height="180"/>
+<img src="https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" alt="streak"/>
 
 </div>
 
 ---
 
-### 📊 Stats & Activity
+### 📊 Contribution Graph
 
 <div align="center">
 
@@ -46,17 +40,17 @@
 
 </div>
 
-<div align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=8" height="165"/>
-
-</div>
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsuresh-ngr&layout=compact&theme=nord&hide_border=true&border_radius=8" height="150"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake.svg" />
+</picture>
 
 </div>
 
