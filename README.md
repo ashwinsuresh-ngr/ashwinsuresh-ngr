@@ -22,11 +22,17 @@
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashwinsuresh-ngr&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&count_private=true&border_radius=8&include_all_commits=true&rank_icon=github" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" height="180"/>
 
 </div>
 
