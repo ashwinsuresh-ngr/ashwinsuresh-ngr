@@ -46,13 +46,11 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/output/github-snake-dark.svg" alt="snake animation" />
 
 </div>
+
+> ⚠️ If the snake isn't visible, go to your repo → Actions → "Generate Stats" → Run workflow manually once.
 
 ---
 
