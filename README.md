@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&border_radius=8&count_private=true)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsuresh-ngr&layout=compact&theme=nord&hide_border=true&border_radius=8" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsuresh-ngr&layout=compact&theme=nord&hide_border=true&border_radius=8)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinsuresh-ngr&theme=nord_dark" alt="Profile Details" />
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinsuresh-ngr&theme=nord_dark)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
