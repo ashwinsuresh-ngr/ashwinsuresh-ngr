@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-s-214a87302/)
 [![Website](https://img.shields.io/badge/Website-%232E87FB.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ashwinsuresh-ngr.github.io/)
 [![PyNotes](https://img.shields.io/badge/PyNotes-%234C566A.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://ashwinsuresh-ngr.github.io/pynotes/)
-[![MyLearning](https://img.shields.io/badge/MyLearning-%234C566A.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://ashwinsuresh-ngr.github.io/pynotes/)
+[![MyLearning](https://img.shields.io/badge/MyLearning-%234C566A.svg?style=for-the-badge&logo=bookstack&logoColor=white)](https://ashwin.gitbook.io/mylearning)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwinsuresh-ngr&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&custom_title=Contribution%20Graph&days=60)](https://github.com/ashwinsuresh-ngr)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwinsuresh-ngr&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff&custom_title=Contribution%20Graph&days=30)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
@@ -36,7 +36,37 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8" alt="streak"/>
+[![streak](https://streak-stats.demolab.com?user=ashwinsuresh-ngr&theme=nord&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&border_radius=8&count_private=true" alt="GitHub Stats" />
+
+</div>
+
+---
+
+### Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsuresh-ngr&layout=compact&theme=nord&hide_border=true&border_radius=8" alt="Top Languages" />
+
+</div>
+
+---
+
+### Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinsuresh-ngr&theme=nord_dark" alt="Profile Details" />
 
 </div>
 
