@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashwin&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashwin&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=88C0D0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Always+learning+something+new;Building+cool+things+one+commit+at+a+time)](https://git.io/typing-svg)
 
@@ -76,6 +76,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
