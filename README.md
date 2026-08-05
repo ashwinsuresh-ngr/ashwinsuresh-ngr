@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinsuresh-ngr&show_icons=true&theme=nord&hide_border=true&border_radius=8&count_private=true)](https://github.com/ashwinsuresh-ngr)
+[![GitHub Stats](https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
@@ -56,7 +56,8 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsuresh-ngr&layout=compact&theme=nord&hide_border=true&border_radius=8)](https://github.com/ashwinsuresh-ngr)
+[![Top Languages](https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/ashwinsuresh-ngr)
+[![Most Commit Language](https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
@@ -66,7 +67,8 @@
 
 <div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinsuresh-ngr&theme=nord_dark)](https://github.com/ashwinsuresh-ngr)
+[![Stats](https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/ashwinsuresh-ngr)
+[![Productive Time](https://raw.githubusercontent.com/ashwinsuresh-ngr/ashwinsuresh-ngr/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/ashwinsuresh-ngr)
 
 </div>
 
